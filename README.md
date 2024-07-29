@@ -1,0 +1,1 @@
+# Interimhc-Strapi
